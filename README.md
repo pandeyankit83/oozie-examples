@@ -56,3 +56,6 @@ To stop the coordinator job run:
 
 	oozie job -kill [coord job id]
 	
+	
+	
+	
